@@ -16,5 +16,3 @@ The data are contained in four files, `links.csv`, `movies.csv`, `ratings.csv` a
 
 This is a *development* dataset. As such, it may change over time and is not an appropriate dataset for shared research results. See available *benchmark* datasets if that is your intent.
 
-This and other GroupLens data sets are publicly available for download at <http://grouplens.org/datasets/>.
-
